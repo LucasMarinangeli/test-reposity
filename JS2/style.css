@@ -1,0 +1,12 @@
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+}
+
+.contenido {
+  width: 45%;
+  border: 20px solid black;
+  padding: 30px;
+  text-align: center;
+}
